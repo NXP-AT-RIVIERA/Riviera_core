@@ -1,4 +1,4 @@
-REPOSIORY STRUCTURE:
+REPOSITORY STRUCTURE:
 
   \>Documentation_release: Contains all of the documentation releases of the Riviera project.
   
