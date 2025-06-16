@@ -1,0 +1,8 @@
+2
+keyed
+<Name><State><Vault><Branch><Version><DateFetched><Log><Conflict><StickyTag><MergedFrom>
+#%@ DEFINE PATH "/REL002_01/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/include/.SYNC" %#
+#%@ DEFINE ROOTUID "2d97269a0f3ba4f329db26759806d86d" %#
+<coproc_pkg.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/include/coproc_pkg.sv;><1><1.4><1726840699><><F><><><vctime=1726840699>
+
+

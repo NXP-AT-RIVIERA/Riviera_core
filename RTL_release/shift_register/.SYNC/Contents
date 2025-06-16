@@ -1,0 +1,13 @@
+2
+keyed
+<Name><State><Vault><Branch><Version><DateFetched><Log><Conflict><StickyTag><MergedFrom>
+#%@ DEFINE PATH "/REL002_01/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/.SYNC" %#
+#%@ DEFINE ROOTUID "2d97269a0f3ba4f329db26759806d86d" %#
+<unidir_set.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/unidir_set.sv;><1><1.3><1726840883><><F><><><vctime=1726840883>
+<bidir_set.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/bidir_set.sv;><1><1.3><1726840883><><F><><><vctime=1726840882>
+<unidir_bank.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/unidir_bank.sv;><1><1.3><1726840883><><F><><><vctime=1726840882>
+<selectors_set.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/selectors_set.sv;><1><1.3><1726840883><><F><><><vctime=1726840882>
+<selectors_bank.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/selectors_bank.sv;><1><1.3><1726840883><><F><><><vctime=1726840882>
+<bidir_bank.sv><C><sync://sc-smt.ddm.nxp.com:9821/Projects/isolde_ns/data/id_nfc_isolde_hw_lib/id_nfc_isolde_cpu/Hardware/coprocessor/rtl/shift_register/bidir_bank.sv;><1><1.3><1726840883><><F><><><vctime=1726840882>
+
+
